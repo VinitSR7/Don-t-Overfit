@@ -6,6 +6,6 @@
 <img src = "Regression.jpg"> </img>
 <br>
 ## Result
-<img src = "./result/voteclfweights2.jpg"> </img>
+<img src = "./results/voteclfweights2.jpg"> </img>
 ## Conclusion
 <img src = "conclusion.jpg"> </img>
