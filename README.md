@@ -5,5 +5,7 @@
 ## Regression Report 
 <img src = "Regression.jpg"> </img>
 <br>
+## Result
+<img src = "./result/voteclfweights2"> </img>
 ## Conclusion
 <img src = "conclusion.jpg"> </img>
